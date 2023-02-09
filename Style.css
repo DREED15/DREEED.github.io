@@ -1,0 +1,47 @@
+.container {
+  text-align: center;
+  vertical-align: center
+}
+.rounded-box {
+  border-radius: 0;
+  box-shadow: 2px 2px 8px #ccc;
+  padding: 20px;
+  background-color: #f0f0f0;
+  display: inline-block;
+  width: 80%;
+  max-width: 800px;
+  margin: 40px auto; /* Added margin to create space between each box */
+}
+h1 {
+  display: inline-block;
+  background-color: #f0f0f0;
+  border-radius: 50px;
+  padding: 10px;
+  box-shadow: 2px 2px 8px #ccc;
+  text-align: center;
+}
+h1 img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+h2 {
+  color: green;
+  font-weight: bold;
+}
+ul {
+  color: black;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer img {
+
+   border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+
+}
